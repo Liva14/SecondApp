@@ -41,7 +41,7 @@
         android:id="@+id/button"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:background="@drawable/button_color"
+        android:background="@drawable/button1_color"
         tools:layout_editor_absoluteX="155dp"
         tools:layout_editor_absoluteY="108dp"
         app:layout_constraintTop_toTopOf="@id/cube1"
